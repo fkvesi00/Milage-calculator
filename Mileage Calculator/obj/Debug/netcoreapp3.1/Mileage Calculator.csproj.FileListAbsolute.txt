@@ -1,0 +1,15 @@
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\bin\Debug\netcoreapp3.1\Mileage Calculator.exe
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\bin\Debug\netcoreapp3.1\Mileage Calculator.deps.json
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\bin\Debug\netcoreapp3.1\Mileage Calculator.runtimeconfig.json
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\bin\Debug\netcoreapp3.1\Mileage Calculator.runtimeconfig.dev.json
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\bin\Debug\netcoreapp3.1\Mileage Calculator.dll
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\bin\Debug\netcoreapp3.1\Mileage Calculator.pdb
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\obj\Debug\netcoreapp3.1\Mileage Calculator.csprojAssemblyReference.cache
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\obj\Debug\netcoreapp3.1\Mileage_Calculator.Form1.resources
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\obj\Debug\netcoreapp3.1\Mileage Calculator.csproj.GenerateResource.cache
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\obj\Debug\netcoreapp3.1\Mileage Calculator.AssemblyInfoInputs.cache
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\obj\Debug\netcoreapp3.1\Mileage Calculator.AssemblyInfo.cs
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\obj\Debug\netcoreapp3.1\Mileage Calculator.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\obj\Debug\netcoreapp3.1\Mileage Calculator.dll
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\obj\Debug\netcoreapp3.1\Mileage Calculator.pdb
+D:\Program Files (x86)\c# projekti(head first)\Mileage Calculator\obj\Debug\netcoreapp3.1\Mileage Calculator.genruntimeconfig.cache
